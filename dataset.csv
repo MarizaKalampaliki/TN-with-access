@@ -1,0 +1,27 @@
+Question,Correct Answer,Page References,Explanation
+What type of train passes by the apartment right outside the window where the murder took place?,An el train (elevated train).,26,This requires retrieving a specific environmental detail explicitly mentioned in the script text.
+"According to the boy's alibi, where did he claim to be at the time of the murder?",He claimed to be at the movies.,25,Retrieval of a specific plot point established early in the text.
+What does the sign on the first door of the corridor say ?,Court of General Sessions. Part I,3,Fact explicitly stated in the script in the description of the camera shot
+What pattern does Juror #3 draw on the same sheet of paper upon which Juror #12 has drawn the train?,tic-tac-toe pattern,64,Fact explicitly stated in the script. The information should be available with a retrieval
+Which Juror says that he's lived in a slum all his life?,Juror #5,31,Fact explicitly stated in the script on page 31
+What was the length of the old man's bed room?,12 feet,89,Fact stated by juror #8 
+"According to the seating description, which juror numbers sit in the rear row?",Jurors #7 through #12.,4,The page explicitly states front row and rear row juror ranges.
+What vehicle’s noise is discussed as interfering with hearing testimony?,"An elevated train (el train), specifically a six-car train.",67,The passage directly identifies the train noise and vehicle type.
+How long did the old man claim it took him to reach the door?,15 seconds,84,The SLM does not know this precise timing detail. The retrieval of page 84 is required.
+What weapon was used in the murder?,A knife,17,The SLM does not know this case-specific evidence detail. The retrieval of page 17 is required.
+What does Juror #5 say when he discovers the jury room door is locked?,He says 'I never knew they locked the door.',7,Explicit dialogue on Page 7 when the guard exits and locks the door. The SLM has no way to know this without the script.
+What game does Juror #7 have tickets for?,"A baseball game, Yankees vs Cleveland.",11,"Page 11, Juror #7 mentions his tickets. Simple retrieval question."
+"What is the name of the breakfast cereal Juror #12 doodles, and what is its advertising slogan?","The cereal is **Rice Pops**, and the slogan is **The Breakfast With The Built-In Bounce**",22,This is a fact-based question where the answer is explicitly stated in the text. It requires basic retrieval and no complex or multi-hop reasoning.
+How much did the replica switchblade knife cost when it was purchased at the pawnshop?,Two Dollars,43,This is a fact-based question where the answer is explicitly stated in the text. It requires basic retrieval and no complex or multi-hop reasoning.
+What is the name of the high school where the Foreman works as an assistant head football coach?,Andrew J. McCorkle High School,104,This is a fact-based question where the answer is explicitly stated in the text. It requires basic retrieval and no complex or multi-hop reasoning.
+Who was the first of the jurymen to go to the men's room?,Juror #9,6,"The SLM does not know this information. The retrieval of page 6 is needed. It is stated that ''Juror #9, the old man, enters hastily and goes toward the men's room.''."
+How old is Juror #9?,70 years old,2,Juror #9’s age is explicitly stated in the character descriptions and must be retrieved from the document.
+What job does Juror #6 have?,Housepainter,1,The document states that Juror #6 is a housepainter.
+"According to the script, which jurors sit in the front row of the jury box?","Jurors #1, #2, #3, #4, #5 and #6 sit in the front row",4,"Page 4 explicitly describes the seating arrangement of the jury box, listing which jurors are in the front and rear rows. A single retrieval of page 4 is sufficient."
+Where is Juror #11 from ?,Europe,2,The SLM does not know this information as it is specific to the script. Retrieving Page 2 is sufficient as Juror #11's origin is explicitly stated there.
+Is Juror #4 wealthy ?,Yes,1,The SLM does not know this information as it is specific to the script. Retrieving Page 1 is sufficient as Juror #4's financial status is explicitly stated there.
+Has Juror #2 been on jury before ?,No,8,The SLM does not know this information as it is specific to the script. Retrieving Page 8 is sufficient as Juror #2's states that he hasn't been on jury before.
+"In the movie 12 Angry Men, how many seconds after the body fell did the old man witness claim he needed to reach the door and see the boy run out?",15 seconds.,87,"On page 87, Juror #8 states that according to the old man's testimony, he claimed to reach his front door within 15 seconds of hearing the body fall. Explicitly stated on a single page."
+Which juror acts as if he has a cold?,Juror #10.,4,"The SLM does not know the answer to this question, the retrieval of page 4 is required."
+"According to the script, what is the occupation of Juror #3?",He runs a messenger service called 'Beck and Call'.,14,A highly specific character fact explicitly stated in a single monologue. Traditional RAG easily solves this by retrieving the right page.
+How old is Juror #3 and what is his occupation?,40 years old. Head of a messenger service.,1,The answer is explicitly stated in the character descriptions on Page 1. A single page retrieval is sufficient.
